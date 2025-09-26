@@ -1,0 +1,10 @@
+[Simple Number Counter]
+       │ step_index → (INT)
+       ▼
+ [Math Expressions]  (Expression: (A % total_lines) + 1 )
+       │ result → (INT)
+       ▼
+[Prompt Line Loader]
+       │ prompt → (STRING)
+       ├────────────> Flux Clip Text Encode (prompt -> CLIP-L input)
+       └────────────> Flux Clip Text Encode (prompt -> T5 input)
