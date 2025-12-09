@@ -1,8 +1,9 @@
 [project]
-name = "CHOMFYNODES"
+name = "chomfynodes"
 description = "A modest, professional suite of utility nodes for ComfyUI, featuring forensic logging, massive wildcard control, universal noise injection, and persistent counters."
 version = "1.0.0"
-license = {file = "LICENSE"} 
+license = { file = "LICENSE" }
+
 # classifiers = [
 #     # For OS-independent nodes (works on all operating systems)
 #     "Operating System :: OS Independent",
@@ -30,7 +31,6 @@ Documentation = "https://github.com/chchchadzilla/ComfyUI-ChomfyNodes/wiki"
 [tool.comfy]
 PublisherId = "chchchadzilla"
 DisplayName = "ComfyUI-ChomfyNodes"
-Icon = "https://i.imgur.com/379fE8z.png"
-includes = [] 
+Icon = "https://raw.githubusercontent.com/chchchadzilla/ComfyUI-ChomfyNodes/main/ComfyUI_07985_.png"
+includes = []
 # "requires-comfyui" = ">=1.0.0"  # ComfyUI version compatibility
-
