@@ -77,3 +77,31 @@ Copyright (c) 2025 Chad Keith
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+## Quick Start (60 seconds)
+
+```bash
+git clone https://github.com/chchchadzilla/ComfyUI-ChomfyNodes
+cd ComfyUI-ChomfyNodes
+python -m venv .venv
+# Windows
+.venv\Scripts\activate
+# macOS/Linux
+# source .venv/bin/activate
+pip install -r requirements.txt
+python main.py
+```
+
+If there is no `main.py`, run the primary entrypoint documented below.
+
+## Usage
+
+Describe the most common 1-3 workflows here with concrete commands/examples.
+
+### Example
+
+```bash
+# Example command
+```
+
+If this helped, please ⭐ star this repo.
