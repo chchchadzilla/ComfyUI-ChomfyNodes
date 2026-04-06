@@ -60,6 +60,14 @@ A persistent counter for time-lapses, iterating filenames, or logic gates.
 
 ---
 
+
+---
+
+## Support
+
+If this project helps you, you can support my work here: **https://buymeacoffee.com/chadpkeith**
+
+
 ## License
 
 MIT License.
