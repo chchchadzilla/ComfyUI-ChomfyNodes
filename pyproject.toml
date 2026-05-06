@@ -2,7 +2,7 @@
 name = "chomfynodes"
 description = "A modest, professional suite of utility nodes for ComfyUI, featuring forensic logging, massive wildcard control, universal noise injection, and persistent counters."
 version = "1.0.0"
-license = { file = "LICENSE" }
+license = { file = "LICENSE.txt" }
 
 # classifiers = [
 #     # For OS-independent nodes (works on all operating systems)
@@ -26,7 +26,7 @@ license = { file = "LICENSE" }
 Repository = "https://github.com/chchchadzilla/ComfyUI-ChomfyNodes"
 #  Used by Comfy Registry https://registry.comfy.org
 Documentation = "https://github.com/chchchadzilla/ComfyUI-ChomfyNodes/wiki"
-"Bug Tracker" = "https://github.com/chchchadzilla/ComfyUI-ChomfyNodes/issues"
+Bug Tracker = "https://github.com/chchchadzilla/ComfyUI-ChomfyNodes/issues"
 
 [tool.comfy]
 PublisherId = "chchchadzilla"
